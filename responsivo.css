@@ -56,7 +56,7 @@
     /*900px // 16 = 56.25*/
     
     .HeroBanner{
-        background-image: url(../images/bg_topo_1198x670.jpg);
+        background-image: url(images/bg_topo_1198x670.jpg);
         aspect-ratio: 1198 / 670;
 
         display: flex;
@@ -73,7 +73,7 @@
 
 @media screen and (min-width:74em){
     .HeroBanner{
-        background-image: url(../images/bg_topo_1600x1374.jpg);
+        background-image: url(images/bg_topo_1600x1374.jpg);
         background-size: cover;
         max-height: 80vh; /*Falar que a imagem pode crescer proporcionalmente porem chegue no limite de 80% da minha viewport porte */
         width: 100%;
